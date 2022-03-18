@@ -1,0 +1,59 @@
+{
+    "colors": {
+        "g_main_color": "#26C767",
+        "g_secondary_color": "#01AD52",
+        "g_main_bg_1": "#313742",
+        "g_main_bg_2": "#171E2E",
+        "g_divider_1": "#8E989A",
+        "g_divider_2": "#737A81",
+        "g_main_text": "#D3D3D3",
+        "g_sub_text_1": "#8E989A",
+        "g_action_text": "#26C767",
+        "g_light_text": "#FFFFFF",
+        "g_main_status_bar_bg_1": "#313742",
+        "g_main_status_bar_bg_2": "#313742",
+        "g_main_status_bar_bg_3": "#8E989A",
+        "g_big_mount": "#26C767",
+        
+        "g_navbar_bg": "#171E2E",
+        "g_navbar_main_text": "#FFFFFF",
+        "g_navbar_icon": "#8E989A",
+        "g_btn_primary_fill": "#26C767",
+        "g_btn_primary_border": "#26C767",
+        "g_btn_primary_text": "#FFFFFF",
+        "g_btn_secondary_fill": "#FFFFFF",
+        "g_btn_secondary_border": "#26C767",
+        "g_btn_secondary_text": "#26C767",
+        "g_btn_tag_fill_unselected": "#171E2F",
+        "g_btn_tag_border_unselected": "#CFD5D6",
+        "g_searchBox_bg_fill": "#313742",
+        "g_searchBox_bg_border": "#313742",
+        "g_searchBox_bg_placeholder": "#8E989A",
+        "g_notification_bubble": "#FB2626",
+        "g_ripple_color": "#464B55",
+        "g_shimmer_1": "#8E989A",
+        "g_shimmer_2": "#737A81",
+        "g_cardView_bg": "#313742",
+        
+        "g_success": "#26C767",
+        "g_error": "#FB2626",
+        "g_warning": "#FFC339",
+        "g_pending": "#8E989A",
+        
+        "home_bottomNav_bg": "#313742",
+        "home_bottomNav_item_inactive": "#8E989A",
+        "home_serviceBox_text": "#D3D3D3",
+        "home_bg": "#171E2E",
+        "home_status_bar": "#171E2E",
+        
+        "noti_bg_read": "#171E2E",
+        "noti_bg_unread": "#313742",
+        "noti_sum_positive": "#26C767",
+        "noti_sum_negative": "#FB2626",
+        
+        "g_highlight": "#5E6873",
+        
+        "g_section_bg": "#171E2F",
+        "g_section_text": "#8E989A"
+    }
+}

@@ -1,0 +1,4 @@
+enum AppEnvironment {
+  Dev,
+  Pro,
+}

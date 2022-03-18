@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "807894649888",
+    "project_id": "cardapptest-afc92",
+    "storage_bucket": "cardapptest-afc92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807894649888:android:49973b88c7fb8b346f8045",
+        "android_client_info": {
+          "package_name": "com.vpb.cardapp.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807894649888-4d1bprd05b6ha8s5lpqm243mla0jj767.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vpb.cardapp.test",
+            "certificate_hash": "5e5a1b1e59cd6c94d78f1c36535a919db69818e7"
+          }
+        },
+        {
+          "client_id": "807894649888-lpm2s3vbco86f94u9130cq2hkmf9gng8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4sFNi41I2I6umcq50cJyzumVBG8gcCjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807894649888-lpm2s3vbco86f94u9130cq2hkmf9gng8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807894649888-c1n3ievtrfgthvoconadu1fem83cois6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vpb.cardapp.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807894649888:android:a4ca802489a9c1c36f8045",
+        "android_client_info": {
+          "package_name": "com.vpb.flutter.boilerplate.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807894649888-cvgv7ute9f2qugt7phs35ohb9g30f5mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vpb.flutter.boilerplate.dev",
+            "certificate_hash": "5e5a1b1e59cd6c94d78f1c36535a919db69818e7"
+          }
+        },
+        {
+          "client_id": "807894649888-lpm2s3vbco86f94u9130cq2hkmf9gng8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4sFNi41I2I6umcq50cJyzumVBG8gcCjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807894649888-lpm2s3vbco86f94u9130cq2hkmf9gng8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807894649888-c1n3ievtrfgthvoconadu1fem83cois6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vpb.cardapp.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

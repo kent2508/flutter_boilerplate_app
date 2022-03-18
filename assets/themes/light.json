@@ -1,0 +1,60 @@
+{
+    "colors": {
+        "g_main_color": "#01AD52",
+        "g_secondary_color": "#01AD52",
+        "g_main_bg_1": "#FFFFFF",
+        "g_main_bg_2": "#F4F7F8",
+        "g_divider_1": "#8E989A",
+        "g_divider_2": "#CFD5D6",
+        "g_main_text": "#000000",
+        "g_sub_text_1": "#8E989A",
+        "g_action_text": "#01AD52",
+        "g_light_text": "#FFFFFF",
+        "g_main_status_bar_bg_1": "#FFFFFF",
+        "g_main_status_bar_bg_2": "#313742",
+        "g_main_status_bar_bg_3": "#B5BEC1",
+        "g_big_amount": "#000000",
+        
+        "g_filter_tag_bg": "#F5FAFD",
+        "g_navbar_bg": "#FFFFFF",
+        "g_navbar_main_text": "#000000",
+        "g_navbar_icon": "#000000",
+        "g_btn_primary_fill": "#01AD52",
+        "g_btn_primary_border": "#01AD52",
+        "g_btn_primary_text": "#FFFFFF",
+        "g_btn_secondary_fill": "#FFFFFF",
+        "g_btn_secondary_border": "#01AD52",
+        "g_btn_secondary_text": "#01AD52",
+        "g_btn_tag_fill_unselected": "#FFFFFF",
+        "g_btn_tag_border_unselected": "#CFD5D6",
+        "g_searchBox_bg_fill": "#E6ECED",
+        "g_searchBox_bg_border": "#E6ECED",
+        "g_searchBox_bg_placeholder": "#B5BEC1",
+        "g_notification_bubble": "#EC1C24",
+        "g_ripple_color": "#F0F0F0",
+        "g_shimmer_1": "#E5ECEE",
+        "g_shimmer_2": "#CFD5D6",
+        "g_cardView_bg": "#FFFFFF",
+        
+        "g_success": "#01AD52",
+        "g_error": "#EC1C24",
+        "g_warning": "#F8B00B",
+        "g_pending": "#B5BEC1",
+        
+        "home_bottomNav_bg": "#FFFFFF",
+        "home_bottomNav_item_inactive": "#8E989A",
+        "home_serviceBox_text": "#000000",
+        "home_bg": "#F4F7F8",
+        "home_status_bar": "#177035",
+        
+        "noti_bg_read": "#FFFFFF",
+        "noti_bg_unread": "#F4F7F8",
+        "noti_sum_positive": "#01AD52",
+        "noti_sum_negative": "#EC1C24",
+        
+        "g_highlight": "#C3E8D6",
+        
+        "g_section_bg": "#F4F7F8",
+        "g_section_text": "#8E989A"
+    }
+}
